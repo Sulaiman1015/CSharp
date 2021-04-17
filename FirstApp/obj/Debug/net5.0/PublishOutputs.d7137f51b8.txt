@@ -1,0 +1,4 @@
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/bin/Debug/net5.0/publish/FirstApp.dll
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/bin/Debug/net5.0/publish/FirstApp.deps.json
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/bin/Debug/net5.0/publish/FirstApp.runtimeconfig.json
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/bin/Debug/net5.0/publish/FirstApp.pdb

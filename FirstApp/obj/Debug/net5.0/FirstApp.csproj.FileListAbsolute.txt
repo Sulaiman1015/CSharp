@@ -1,0 +1,15 @@
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/bin/Debug/net5.0/FirstApp.deps.json
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/bin/Debug/net5.0/FirstApp.runtimeconfig.json
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/bin/Debug/net5.0/FirstApp.runtimeconfig.dev.json
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/bin/Debug/net5.0/FirstApp.dll
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/bin/Debug/net5.0/ref/FirstApp.dll
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/bin/Debug/net5.0/FirstApp.pdb
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/obj/Debug/net5.0/FirstApp.csprojAssemblyReference.cache
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/obj/Debug/net5.0/FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/obj/Debug/net5.0/FirstApp.AssemblyInfoInputs.cache
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/obj/Debug/net5.0/FirstApp.AssemblyInfo.cs
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/obj/Debug/net5.0/FirstApp.csproj.CoreCompileInputs.cache
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/obj/Debug/net5.0/FirstApp.dll
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/obj/Debug/net5.0/ref/FirstApp.dll
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/obj/Debug/net5.0/FirstApp.pdb
+/Users/illyas/Desktop/AllTest/CSharp/FirstApp/obj/Debug/net5.0/FirstApp.genruntimeconfig.cache
